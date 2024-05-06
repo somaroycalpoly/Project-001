@@ -1,5 +1,5 @@
 # calculate mean
-x <- c(1, 1, 2, 3, 5, 8)
+x <- c(1, 1, 2, 3, 5, 8, 13)
 x.bar <- mean(x)
 print(x.bar)
 
